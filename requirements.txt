@@ -1,0 +1,5 @@
+telethon
+python-telegram-bot
+nest-asyncio
+beautifulsoup4
+requests
